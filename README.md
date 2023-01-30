@@ -7,10 +7,10 @@ This repo is a fork of the [Scrolling Leaflet Storymap with Google Sheets Templa
 - Google Sheets template https://docs.google.com/spreadsheets/d/10Vrx-rsoThQkbGjRlMw9F-4LT-WJXpUb9qWP6KS4M9g/edit#gid=0
 
 ## Resources
-- find the most up-to-date version at the original repo at https://github.com/HandsOnDataViz/leaflet-storymaps-with-google-sheets
+- Find the most up-to-date version at the original repo at https://github.com/HandsOnDataViz/leaflet-storymaps-with-google-sheets
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 - See the personal website of Jack Dougherty at for more related teaching and research resources https://jackdougherty.org/
-- find more case studies in the list of repo forks and the *Hands-on Data Visualization* book
+- Find more case studies in the list of repo forks and the *Hands-on Data Visualization* book
 
 
 ## Credits (and licenses)
